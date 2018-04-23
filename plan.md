@@ -8,16 +8,18 @@
 * Sreyas Ananthan (NREL)
 * Matt Barone (SNL)
 
-
 ## FY20 Target Use Case
 Run the 2 turbine case with wake impingement, publish a paper based on the runs, release all information to the public that is needed to run this case.
 
 ## Tasks
-* Further **McAlester blade and wing V&V work** to better understand the computational requirements of blade resolved modeling (9 FTE-months)
+* (1) Further **McAlester blade and wing V&V work** to better understand the computational requirements of blade resolved modeling (9 FTE-months). Consider using the **MEXICO / NEW-MEXICO** also.  - Mike
 * **Validation and demonstration of hybrid RANS-LES** simulations that are needed to perform blade resolved turbine simulations in realistic atmospheric conditions. (9 FTE months)
 * Demonstration and preliminary validation of **utility scale turbine simulation**. This work will hopefully be performed using the Siemens 2.3, pending the availability of data, geometry, etc. (1.5 FTE year)
-* Developing and demonstrating methodology to integrate **overset capabilities** for full turbine simulations (should be completed by Q4 2019) (6 FTE months)
+* (2) Developing and demonstrating methodology to integrate **overset capabilities** for full turbine simulations (should be completed by Q4 2019) (6 FTE months) - Mike
 * Demonstrate **two turbine simulation with wake impingement** using the Siemens 2.3, if available. (1.5 FT year)
+* (4) **V&V (very preliminary) of wind farm with actuator lines** (likely OWEZ) - Dave
+* (5) **V27 & NRT actuator line modesl** - Dave
+* (3) **Different stability ABLs (stable and unstable)**  - Myra
 
 ## Dependencies between the tasks and other functional areas
 Myra, Dave, and Mike to discuss on 23 April 2018 call.
