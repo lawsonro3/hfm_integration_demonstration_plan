@@ -16,10 +16,14 @@ Run the 2 turbine case with wake impingement, publish a paper based on the runs,
 * **Validation and demonstration of hybrid RANS-LES** simulations that are needed to perform blade resolved turbine simulations in realistic atmospheric conditions. (9 FTE months)
 * Demonstration and preliminary validation of **utility scale turbine simulation**. This work will hopefully be performed using the Siemens 2.3, pending the availability of data, geometry, etc. (1.5 FTE year)
 * (2) Developing and demonstrating methodology to integrate **overset capabilities** for full turbine simulations (should be completed by Q4 2019) (6 FTE months) - Mike
-* Demonstrate **two turbine simulation with wake impingement** using the Siemens 2.3, if available. (1.5 FT year)
-* (4) **V&V (very preliminary) of wind farm with actuator lines** (likely OWEZ) - Dave
-* (5) **V27 & NRT actuator line modesl** - Dave
-* (3) **Different stability ABLs (stable and unstable)**  - Myra
+
+
+
+* (1) Demonstrate **two turbine simulation with wake impingement** using the Siemens 2.3, if available. (1.5 FT year) (Mike)
+* (2) **Full wind plant study wiht actuator lines** (Myra)
+* (2.1) **Different stability ABLs (stable and unstable)** 
+* (3) **Detailed wake field study - swift** - Ensure that the actuator line models verified... ready for initial application in Wake Dynamics (Dave)
+
 
 ## Dependencies between the tasks and other functional areas
 Myra, Dave, and Mike to discuss on 23 April 2018 call.
