@@ -8,36 +8,23 @@
 | Sreyas Ananthan | Team Member |
 | Matt Barone | Team Member |
 
-## HFM Integration and Demonstration FY20 Objective
-The overall goal of this task is to demonstrate wind farm and wind turbine simulations at a level of fidelity that is needed to advance the scientific understanding of wind plant physics. In order to accomplish this objective, Nalu will need to have the ability to (1) model large wind farms using actuator line models and (2) model two or more blade-resolved turbines with wake interactions using hybrid RANS-LES.
+## HFM Integration and Demonstration FY20 Target Use Cases
+The overall goal of this task is to demonstrate wind farm and wind turbine simulations at a level of fidelity that is needed to advance the scientific understanding of wind plant physics. In order to accomplish this objective, Nalu will need to have the ability to:
 
-validation
+**Use Case 1:** Simulate large wind farms using actuator lines and OpenFAST to model the turbines and LES to model aerodynamics.
 
-## FY20 Target Use Case
-* Actuator line simulation of wind farm
-* Blade resolved two turbine simulation
+**Use Case 2:** Simulate two or more blade-resolved turbines with wake interactions using OpenFAST's FEA capabilities to model  turbines and hybrid RANS-LES to model aerodynamics.
 
-## Tasks
-1. Development and verification of actuator line simulation capabilities (Dave)
-2. Actuator line wind farm demonstration (Myra)
-3. Blade resolved simulations (Mike L)
-
-## Dependencies between the tasks and other functional areas
-* (1) Further McAlester blade and wing V&V work to better understand the computational requirements of blade resolved modeling
-* Validation and demonstration of hybrid RANS-LES simulations that are needed to perform blade resolved turbine simulations in realistic atmospheric conditions.
-* Demonstration and preliminary validation of utility scale turbine simulation. This work will hopefully be performed using the Siemens 2.3, pending the availability of data, geometry, etc. (1.5 FTE year)
-* (2) Developing and demonstrating methodology to integrate overset capabilities for full turbine simulations (should be completed by Q4 2019) (6 FTE months) - Mike
-
-## Resources (particular individuals, FTE amounts, compute-time resources) needed
-See excel spreadsheet
+Demonstrating the two use cases listed above will require that the HFM integration and demonstration team integrates, verifies, validates, and demonstrates several components of Nalu as described in detail in the [associated Gantt chart spreadsheet](https://github.com/lawsonro3/hfm_integration_demonstration_plan/blob/master/gantt_chart.xlsx).
 
 ## Key credibility assertion steps that need to be executed
-See excel spreadsheet
+In order to demonstrate the credibility of the Nalu code, the team will need to demonstrate and, as much as possible, validate actuator line and blade resolved simulations. Detailed verification of specific components of Nalu will be performed by other Functional Area teams, and the ultimate success of this Functional Area's work is thus dependent on the work of these other Functional Areas.
 
-## Intermediary use cases, validation cases, and calibration data needs
-See excel spreadsheet
+The specific steps that this Functional Area will take to demonstrate capability are described in the Gantt chart spreadsheet](https://github.com/lawsonro3/hfm_integration_demonstration_plan/blob/master/gantt_chart.xlsx). Dependencies on other Functional Areas are also noted in this spreadsheet.
 
 ## Publications
-* One or more publication on the work verifying actuator line simulation capabilities and simulating a full wind farm by Q2 FY20
-* One publication on two-turbine blade resolved simulations by Q4 FY20
-* Conference papers and/or presentations as appropriate
+In order to disseminate the results of our work to the wind R&D community, the HFM Integration and Demonstration team plans the following publications:
+* One journal publication/s describing the ABL and actuator line wind farm simulation work. **Estimated date: Q4 FY19**
+* One conference or journal publication actuator line and Nalu UQ work. **Estimated date: Q3 FY19**
+* One publication on the blade resolved simulation work. **Estimated date: Q4 FY20**
+* Other conference papers and presentations as appropriate
