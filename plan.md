@@ -1,12 +1,17 @@
 # HFM Integration and Demonstration Functional Area Q3 FY18 - Q4 FY20 Plan
 ## Planning Team Members
-* Michael Lawson (NREL, Planning  Lead)
-* David Maniaci (SNL)
-* Myra Blaylock (SNL)
+| Name | Organization |
+| --- |
+| Michael Lawson | Planning Team Lead |
+| David Maniaci | Planning Team Member |
+| Myra Blaylock | Planning Team Member |
+| Sreyas Ananthan | Team Member |
+| Matt Barone | Team Member |
 
-## Other Team Members
-* Sreyas Ananthan (NREL)
-* Matt Barone (SNL)
+## HFM Integration and Demonstration FY20 Objective
+The overall goal of this task is to demonstrate wind farm and wind turbine simulations at a level of fidelity that is needed to advance the scientific understanding of wind plant physics. In order to accomplish this objective, Nalu will need to have the ability to (1) model large wind farms using actuator line models and (2) model two or more blade-resolved turbines with wake interactions using hybrid RANS-LES.
+
+validation
 
 ## FY20 Target Use Case
 * Actuator line simulation of wind farm
