@@ -15,7 +15,16 @@ The overall goal of this task is to demonstrate wind farm and wind turbine simul
 
 **Use Case 2:** Simulate two or more blade-resolved turbines with wake interactions using OpenFAST's FEA capabilities to model  turbines and hybrid RANS-LES to model aerodynamics.
 
-Demonstrating the two use cases listed above will require that the HFM integration and demonstration team integrates, verifies, validates, and demonstrates several components of Nalu as described in detail in the [associated Gantt chart spreadsheet](https://github.com/lawsonro3/hfm_integration_demonstration_plan/blob/master/gantt_chart.xlsx).
+## Dependencies between the tasks and other functional areas
+* (1) Further McAlester blade and wing V&V work to better understand the computational requirements of blade resolved modeling
+* Validation and demonstration of hybrid RANS-LES simulations that are needed to perform blade resolved turbine simulations in realistic atmospheric conditions.
+* Demonstration and preliminary validation of utility scale turbine simulation. This work will hopefully be performed using the Siemens 2.3, pending the availability of data, geometry, etc. (1.5 FTE year)
+* (2) Developing and demonstrating methodology to integrate overset capabilities for full turbine simulations (should be completed by Q4 2019) (6 FTE months) - Mike
+* UQ work area will have the same or similar demonstration cases.  DAKOTA coupling tasks could fit in either area.
+
+## Resources (particular individuals, FTE amounts, compute-time resources) needed
+* See excel spreadsheet
+* Demonstrating the two use cases listed above will require that the HFM integration and demonstration team integrates, verifies, validates, and demonstrates several components of Nalu as described in detail in the [associated Gantt chart spreadsheet](https://github.com/lawsonro3/hfm_integration_demonstration_plan/blob/master/gantt_chart.xlsx).
 
 ## Key credibility assertion steps that need to be executed
 In order to demonstrate the credibility of the Nalu code, the team will need to demonstrate and, as much as possible, validate actuator line and blade resolved simulations. Detailed verification of specific components of Nalu will be performed by other Functional Area teams, and the ultimate success of this Functional Area's work is thus dependent on the work of these other Functional Areas.
