@@ -40,8 +40,22 @@ In order to disseminate the results of our work to the wind R&D community, the H
 
 ## Planningn Team Comments Regarding Feedback received from HFM/ECP Leadership Team on 04 May 2018 (via Spague Email)
 Comments:
-* FTE: 1.03 FTE/year; <span style="color:green"> Response: After discussing, the Integration and Demonstration Planning Team feels that slightly more effort (i.e. FTEs) is needed to accomplish the stated goals and the Gantt chart will be updated accordingly </span>
-* The demos and validation studies in this functional area should be with integrated capabilities. For example, the ABL-only simulations/validation should be done in the ABL area. Please work with other areas to reconcile overlaps. <span style="color:green"> Response: Myra will coordinate with the ABL team to address this comment </span>
-* Add task on pursuing/developing NDA with Siemens for validation collaboration, or as coordination with related projects. <span style="color:green"> Response: This task has been added to the Gantt chart  </span>
-* Coordination with the Integration FA in Exawind to ensure both use cases are fully covered is needed. <span style="color:green"> Response: Mike L will coordinate this task with the ECP integration and demonstration planning team  </span>
-* Past experience suggests modeling lift, drag, and moment forces for the range of airfoils along a wind turbine blade is difficult. Coordinate with ECP-Integration/Demonstration and Hybrid RANS-LES to validate the predictive capability for the 2D airfoils along the blade of the final use case. <span style="color:green"> Response: Dave M will include this task in the Gantt chart, either as a new high level task, or as a sub task rolled into the blade resolved modeling task  </span>
+* FTE: 1.03 FTE/year;
+
+Response: After discussing, the Integration and Demonstration Planning Team feels that slightly more effort (i.e. FTEs) is needed to accomplish the stated goals and the Gantt chart will be updated accordingly.
+
+* The demos and validation studies in this functional area should be with integrated capabilities. For example, the ABL-only simulations/validation should be done in the ABL area. Please work with other areas to reconcile overlaps.
+
+Response: Myra will coordinate with the ABL team to address this comment
+
+* Add task on pursuing/developing NDA with Siemens for validation collaboration, or as coordination with related projects.
+
+Response: This task has been added to the Gantt chart
+
+* Coordination with the Integration FA in Exawind to ensure both use cases are fully covered is needed.
+
+Response: Mike L will coordinate this task with the ECP integration and demonstration planning team
+
+* Past experience suggests modeling lift, drag, and moment forces for the range of airfoils along a wind turbine blade is difficult. Coordinate with ECP-Integration/Demonstration and Hybrid RANS-LES to validate the predictive capability for the 2D airfoils along the blade of the final use case.
+
+Response: Dave M will include this task in the Gantt chart, either as a new high level task, or as a sub task rolled into the blade resolved modeling task
