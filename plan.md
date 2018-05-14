@@ -46,7 +46,7 @@ Response: After discussing, the Integration and Demonstration Planning Team feel
 
 * The demos and validation studies in this functional area should be with integrated capabilities. For example, the ABL-only simulations/validation should be done in the ABL area. Please work with other areas to reconcile overlaps.
 
-Response: Myra will coordinate with the ABL team to address this comment
+Response: Stable and unstable precursors simulations/development will be performed in the `ABL Functional Area`
 
 * Add task on pursuing/developing NDA with Siemens for validation collaboration, or as coordination with related projects.
 
